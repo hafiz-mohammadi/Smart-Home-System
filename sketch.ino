@@ -1,5 +1,5 @@
 /* * PROJECT: Smart Home System (IoT)
- * AUTHOR: [Your Name]
+ * AUTHOR: Hafizullah Mohammadi, Ibrahima Kindy Diallo, Abdalle Ahmad Hassan
  * HARDWARE: ESP32, DHT22, PIR, LDR, Servo, Relay, Buzzer, LCD
  * CLOUD: Blynk IoT Platform
  */
